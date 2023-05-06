@@ -1,0 +1,16 @@
+{
+  "name": "auto-blueprint-parts",
+  "version": "0.0.1",
+  "description": "A database of 3D models for vehicle replacement parts",
+  "main": "index.js",
+  "repository": "https://github.com/locomoco28/auto-blueprint-parts",
+  "author": "Eren <32169493+locomoco28@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "next": "^13.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -1,0 +1,31 @@
+# first example file
+
+links:
+  - https://www.thingiverse.com/thing:5316009
+license:
+  - name: CC BY-NC 4.0
+    link: https://creativecommons.org/licenses/by-nc/4.0/
+models:
+  - model: Forester
+    tested: true
+years:
+  tested:
+    - 2006
+  untested:
+    - 2002
+    - 2003
+    - 2004
+    - 2005
+    - 2007
+    - 2008
+trim:
+  tested:
+    - 2.5XT
+  untested:
+    - 2.0X
+    - 2.0XT
+    - 2.5X
+doesNotFit:
+  # egde cases for e.g. specific regions
+  # example:
+  # - JDM imports
